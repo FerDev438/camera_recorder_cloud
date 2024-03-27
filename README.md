@@ -1,3 +1,3 @@
 # camera_recorder_cloud
 
-A new Flutter project.
+That's a simple camera video recorder app
